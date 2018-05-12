@@ -14,6 +14,7 @@ class Zavorky {
 
     var result: Boolean = true
 
+    // Stack - obsolete
 //    breakable {
 //      for (i <- 0 until s.length) {
 //        val c = s(i)
